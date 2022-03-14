@@ -7,5 +7,7 @@ final class ADAssestKitTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
         XCTAssertEqual(ADAssestKit().text, "Hello, World!")
+        XCTAssertNotNil(MAF_EditIcon)
+        XCTAssertNotNil(MAF_BaubleIcon)
     }
 }
