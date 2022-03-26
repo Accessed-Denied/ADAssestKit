@@ -12,5 +12,6 @@ import UIKit
 
 public let MAF_EditIcon = UIImage(named: "edit", in: Bundle.module, compatibleWith: nil)
 public let MAF_BaubleIcon = UIImage(named: "bauble", in: Bundle.module, compatibleWith: nil)
+public let MAF_SoccerIcon = UIImage(named: "soccer", in: Bundle.module, compatibleWith: nil)
 
 #endif
